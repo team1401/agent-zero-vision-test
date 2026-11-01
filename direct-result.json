@@ -1,0 +1,41 @@
+{
+  "timestamp": "2026-10-21T17:02:00.170425+00:00",
+  "status": 200,
+  "body": {
+    "id": "chatcmpl-d5ed4c605f3848929f95bf91",
+    "created": 1792602118,
+    "model": "halogen-qwen3.8-flash-next",
+    "object": "chat.completion",
+    "choices": [
+      {
+        "index": 0,
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "top-left: red\ntop-right: blue\nbottom-left: green\nbottom-right: purple"
+        }
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 345,
+      "completion_tokens": 20,
+      "total_tokens": 365,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "timings": {
+      "prompt_n": 345,
+      "predicted_n": 20,
+      "prompt_ms": 574.9,
+      "predicted_ms": 457.5,
+      "prompt_per_second": 600.104,
+      "predicted_per_second": 43.716,
+      "cache_n": 0,
+      "disk_restore_n": 0,
+      "disk_restore_ms": 0.0,
+      "draft_n": 15,
+      "draft_n_accepted": 15
+    }
+  }
+}

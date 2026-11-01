@@ -1,0 +1,22 @@
+{
+  "timestamp": "2026-10-21T17:08:01.781254+00:00",
+  "context": "QjEFT9FW",
+  "direct_image_http_status": 200,
+  "direct_quadrant_groundtruth_match": true,
+  "backend_vision_enabled": true,
+  "default_presets_unchanged": true,
+  "existing_contexts_unchanged": [
+    true,
+    true
+  ],
+  "tools_screenshot_only": true,
+  "agent_final_marker_matches": true,
+  "independent_server_stage": 2,
+  "click_count": 6,
+  "correct_clicks": 2,
+  "first_attempt_pass": false,
+  "second_attempt_pass": true,
+  "retry_guidance": "Supplied verified image dimensions and no-offset fact, NOT target coordinates or marker.",
+  "final_marker": "VISION-PASS-295744",
+  "test_chat_vision_override_only": true
+}

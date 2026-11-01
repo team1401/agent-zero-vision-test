@@ -1,0 +1,8 @@
+{
+  "quadrants": {
+    "top-left": "red",
+    "top-right": "blue",
+    "bottom-left": "green",
+    "bottom-right": "purple"
+  }
+}

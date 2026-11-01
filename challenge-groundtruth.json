@@ -1,0 +1,67 @@
+{
+  "stages": [
+    {
+      "colors": [
+        "red",
+        "blue",
+        "green",
+        "purple"
+      ],
+      "coords": [
+        [
+          150,
+          180
+        ],
+        [
+          440,
+          180
+        ],
+        [
+          150,
+          420
+        ],
+        [
+          440,
+          420
+        ]
+      ],
+      "target": "green",
+      "center": [
+        150,
+        420
+      ]
+    },
+    {
+      "colors": [
+        "blue",
+        "red",
+        "green",
+        "purple"
+      ],
+      "coords": [
+        [
+          150,
+          180
+        ],
+        [
+          440,
+          180
+        ],
+        [
+          150,
+          420
+        ],
+        [
+          440,
+          420
+        ]
+      ],
+      "target": "purple",
+      "center": [
+        440,
+        420
+      ]
+    }
+  ],
+  "marker": "VISION-PASS-295744"
+}
